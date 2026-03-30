@@ -210,18 +210,3 @@ preds/
 └── ...
 ```
 
-## Citation
-
-If you find this code useful, please consider citing:
-
-```bibtex
-@misc{csv2026_two_stage_4part,
-  title={Two-Stage 4-Part Model for Carotid Plaque Segmentation and Vulnerability Assessment},
-  year={2026},
-  url={https://github.com/YOUR_USERNAME/CSV-Two-Stage-4Part}
-}
-```
-
-## License
-
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
