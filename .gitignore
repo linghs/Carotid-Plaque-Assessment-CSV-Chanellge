@@ -1,0 +1,42 @@
+# Data
+data/
+*.h5
+
+# Checkpoints
+checkpoints/
+*.pth
+
+# Training outputs
+csv_seg_outputs*/
+csv_cls_outputs*/
+csv_cls_from_seg*/
+dilation_test*/
+*_outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Archives
+*.tar.gz
+*.zip
